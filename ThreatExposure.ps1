@@ -1,4 +1,4 @@
-﻿<# 
+<# 
 CYBERSEAL6X Threat Exposure Analyzer (Branded) v1.1
 Brought to you by CYBERSEAL6X Security Research
 https://cyberseal6x.com
